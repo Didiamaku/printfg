@@ -2,7 +2,7 @@
 
 /****************** PRINT POINTER ******************/
 /**
- * print_pointer - Prints the value of a pointer variable
+ * print_pointer - Prints value of a pointer variable
  * by Didi and Precious
  * @types: List a of arguments
  * @buffer: Buffer array to handle print

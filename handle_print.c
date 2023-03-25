@@ -2,7 +2,7 @@
 /**
  * handle_print - Prints an argument based on its type
  * by Didi and Precious
- * @fmt: Formatted string in which to print the arguments.
+ * @fmt: Formatted string to print arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
  * @buffer: Buffer array to handle print.
