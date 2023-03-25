@@ -2,12 +2,8 @@
 
 /**
  * get_precision - Calculates the precision for printing
-<<<<<<< HEAD
+ * by Joseph and Ciny
  * @format: Formatted string in which to print the arguments
-=======
- * by Didi and Precious
- * @format: Formatted string to print the arguments
->>>>>>> c4c4ae213bdef7184f4d4a92bf499de6efb59e8d
  * @i: List of arguments to be printed.
  * @list: list of arguments.
  *
