@@ -6,7 +6,7 @@
  * main - Entry point
  * by Didi and Precious
  *
- * Return: Always 0
+ * Return: 0 on success
  */
 int main(void)
 {
