@@ -3,7 +3,7 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
- * by Joseph and Ciny
+ * by Didi and Precious
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
